@@ -90,8 +90,8 @@ Feel free to fork and tweak SurpriseVim to your heart's content! Submit a PR if 
 
 ## 🐝 Special Thanks
 
-A huge thanks to [ThePrimeagen](https://github.com/ThePrimeagen) for his incredible Neovim tutorials and inspiration.  
-Also, a special shoutout to my mentor **Jamolhon Akhmedov** for guiding me on my journey.  
+A huge thanks to [**ThePrimeagen**](https://github.com/ThePrimeagen) for his incredible Neovim tutorials and inspiration.  
+Also, a special shoutout to my mentor[ **Jamolhon Akhmedov**](https://github.com/jamolxon) for guiding me on my journey.  
 
 ---
 
